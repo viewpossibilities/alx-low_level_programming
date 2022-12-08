@@ -2,8 +2,8 @@
 /**
  * main - function that prints to the stdout using puts
  */
-int main()
+void main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
-	return 0;
+	return (0);
 }
