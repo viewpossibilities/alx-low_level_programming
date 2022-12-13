@@ -12,5 +12,4 @@ while (la <= 'z')
 	la++;
 }
 _putchar('\n');
-return (0);
 }
