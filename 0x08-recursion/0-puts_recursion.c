@@ -1,7 +1,7 @@
 /**
+ * _puts_recursion - Prints a string, followed by a new line.
  * File: a file
  * Auth: possible
- * _puts_recursion - Prints a string, followed by a new line.
  * @s: The string to be printed.
  * Return: 0
  */
