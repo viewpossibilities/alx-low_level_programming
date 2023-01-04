@@ -1,8 +1,9 @@
 /**
- * File: 0-puts_recursion.c
+ * File: a file
  * Auth: possible
  * _puts_recursion - Prints a string, followed by a new line.
  * @s: The string to be printed.
+ * Return: 0
  */
 #include "main.h"
 void _puts_recursion(char *s)
